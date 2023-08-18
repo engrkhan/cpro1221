@@ -1,2 +1,3 @@
-# cpro1221
-Programming Java SE, Fall 2023, RDP
+# CPRO-1221: Programming Java SE
+Computer Programming,
+Fall 2023, RDP
