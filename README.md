@@ -1,3 +1,3 @@
 # CPRO-1221: Programming Java SE
 Computer Programming,
-Fall 2023, RDP
+Winter 2024, Donald School of Business, Science, & Computing, Red Deer Polytechnic
