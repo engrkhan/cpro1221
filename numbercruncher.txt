@@ -1,0 +1,10 @@
+Student 1, 77%
+Student 2, 42%
+Student 3, 95%
+Student 4, 0%
+Student 5, 79%
+Student 6, 58%
+Student 7, 17%
+Student 8, 75%
+Student 9, 66%
+Student 10, 89%
